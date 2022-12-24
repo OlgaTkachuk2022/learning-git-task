@@ -14,4 +14,4 @@ for shop, product in lista_zakupow.items():
     print(f"Я йду до {shop.capitalize()} і куплю там {product}")
     total = total + len(product)
 print(f"Разом купую {total} товарів.")
-
+print ("З Новим роком та Різдвом Христовим!")
